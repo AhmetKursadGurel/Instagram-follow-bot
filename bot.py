@@ -137,5 +137,5 @@ for i in range(int(allfoll/2)):
 
 
 if __name__ == '__main__':
-    ig_bot = InstagramBot('ayhankoseoglu11', 'py.bot.exe12345')
-    ig_bot.obtain_following_list("akursadgurel")
+    ig_bot = InstagramBot('username', 'py.bot.exe12345')
+    ig_bot.obtain_following_list("target_user")
